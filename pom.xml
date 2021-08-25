@@ -198,6 +198,8 @@
                     <source>15</source>
                     <target>15</target>
                     <encoding>UTF-8</encoding>
+	            <debug>true</debug>
+                    <debuglevel>lines,vars,source</debuglevel>
                 </configuration>
             </plugin>
             <plugin>
